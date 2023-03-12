@@ -1,7 +1,4 @@
 Ahora lo cambie desde GitHub
-<<<<<<< HEAD
-
-CAmbio algo en el Local para y COMMITEO 
-=======
 Paso 7 modifico algo más y COMMITEO acá sin PULL
->>>>>>> 07e8b64d258d1c378ecc906013c0b038fac8be60
+CAmbio algo en el Local para y COMMITEO 
+
