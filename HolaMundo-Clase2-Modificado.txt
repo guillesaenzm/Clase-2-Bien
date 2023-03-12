@@ -2,3 +2,4 @@ Ahora lo cambie desde GitHub
 Paso 7 modifico algo más y COMMITEO acá sin PULL
 CAmbio algo en el Local para y COMMITEO 
 
+Termino poniendo algo en GITHUB para luego PULL
